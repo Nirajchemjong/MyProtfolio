@@ -87,7 +87,7 @@ $(window).on("load", function () {
 
   setTimeout(function () {
     $(".loader-bg").fadeToggle();
-  }, 1500);
+  }, 1100);
 
   // $('.navbar-collapse .navbar-nav .nav-link:nth-child(1)').addClass('active');
   $(".navbar-collapse .navbar-nav .nav-link:nth-child(2)").removeClass(
